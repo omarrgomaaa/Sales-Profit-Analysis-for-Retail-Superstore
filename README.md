@@ -101,3 +101,8 @@ The following business questions were explored:
 -Discount vs Profit (Scatter Plot)
 
 -Correlation Heatmap
+
+## 📊 Sample Visualization
+
+### Sales by Region
+![Sales by Region](images/output.png)
